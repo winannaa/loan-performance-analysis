@@ -54,3 +54,4 @@ The dashboard provides:
 - Dataset: Dataset: [Lending Club Loan Data](https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv)
 
 ## Dashboard Preview
+![Dashboard](./assets/dashboard.png)
