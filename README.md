@@ -49,7 +49,7 @@ The dashboard provides:
 - Default trends based on loan purpose
 
 ## Tools & Technologies
-- QL (DBeaver): Data cleaning & aggregation
+- SQL (DBeaver): Data cleaning & aggregation
 - Microsoft Excel: [Pivot Table & Dashboard visualization](https://github.com/winannaa/loan-performance-analysis/tree/main/excel)
 - Dataset: Dataset: [Lending Club Loan Data](https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv)
 
